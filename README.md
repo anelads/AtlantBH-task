@@ -10,7 +10,7 @@ Testing phase - For the purpose of testing Maven project has been used, IntelliJ
 In this repository you can find developed test plan for the service [Test plan.xlsx]. Tests have been run according to provided test plan where for each test expected test result has been shared and confirmed.
 
 
-In IntelliJ test environment, attached Java script [RestAPI] has been run for each test by changing get request as per explained for each separate test in test plan, and the results are executed in JSON format.
+In IntelliJ test environment, attached Java script [RestAPItest] has been run for each test by changing get request as per explained for each separate test in test plan, and the results are executed in JSON format.
 
 
 In repository you can also find main Java script written for the purposes of this test.
